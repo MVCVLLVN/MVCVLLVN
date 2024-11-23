@@ -1,25 +1,15 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Привет! Меня зовут Макс
 Добро пожаловать в мой профиль на GitHub!
 </div>  
   
 
-- ⚙️Работаю Data Analyst в IT-компании, занимающейся приемом онлайн платежей для high и low риск бизнесов.  
+- ⚙️Работаю Data Analyst в IT-компании, занимающейся приемом онлайн-платежей для high-risk и low-risk бизнесов  
   
 
 - 🎓 Изучаю направление Q-Learning  
   
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Tools  
@@ -31,13 +21,6 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
